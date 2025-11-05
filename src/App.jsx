@@ -1,6 +1,6 @@
 import React from 'react'
 import Cards from './components/Cards'
-import Header from './components/header'
+import Header from './components/Header'
 import Modo from './components/Modo'
 export default function App() {
   return (
